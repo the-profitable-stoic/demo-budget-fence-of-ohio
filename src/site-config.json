@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Budget Fence of Ohio",
+    "phone": "12163317388",
+    "category": "fencing",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "fencing-trust-navy",
+      "categoryGroup": "fencing",
+      "name": "Trust Navy",
+      "recipeFile": "fencing/trust-navy.astro",
+      "colors": {
+        "primary": "#78350F",
+        "primaryDark": "#451A03",
+        "primaryLight": "#ddcdc3",
+        "secondary": "#662d0d",
+        "accent": "#92400E",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#78350F",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Cabin",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "fencing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Reliable Fence Experts",
+      "heroSubline": "Protecting your property with quality fences. Serving Cleveland and surrounding communities.",
+      "aboutTitle": "Your Local Fencing Partner",
+      "aboutText": [
+        "Budget Fence of Ohio started with a simple mission: to provide Cleveland homeowners with affordable, durable, and beautiful fencing solutions. We understand the unique challenges of our local climate, from harsh winters to humid summers, and we build our fences to withstand it all.",
+        "Our approach is rooted in honesty and craftsmanship. We believe in clear communication, fair pricing, and meticulous attention to detail. From the initial consultation to the final inspection, we prioritize your satisfaction and ensure your fence meets your exact needs.",
+        "We're proud to be a part of the Cleveland community. We source materials locally whenever possible and actively support local initiatives. When you choose Budget Fence of Ohio, you're supporting a business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Cleveland's climate and housing styles, ensuring your fence is built to last."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "Quality fencing doesn't have to break the bank. We offer competitive pricing and transparent quotes."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality materials to withstand Ohio's weather and provide long-lasting protection."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our experienced team ensures your fence is installed correctly and efficiently, with minimal disruption to your property."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Fence Estimate",
+      "ctaSubline": "Protect your property and enhance its value with a custom fence from Budget Fence of Ohio."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences for privacy, security, and natural beauty.",
+        "description": "Wood fences offer timeless appeal and versatile design options for Cleveland homes. At Budget Fence of Ohio, we specialize in crafting durable and attractive wood fences tailored to your specific needs and budget. We use pressure-treated lumber to resist rot and insect damage, crucial in Ohio's humid climate. Choose from various styles, including privacy fences, picket fences, and post-and-rail fences, all customizable with stains and finishes to complement your home's aesthetic. Proper installation is key to a long-lasting wood fence. Our experienced team ensures precise post spacing, secure connections, and proper drainage to prevent premature decay. We also address common Cleveland challenges like freeze-thaw cycles and soil conditions to maximize your fence's lifespan.\n\nWe handle every step of the process, from obtaining necessary permits to post-installation cleanup. We'll help you select the right wood species and design elements to achieve your desired look and functionality. A well-built wood fence not only enhances your property's value but also provides privacy and security for years to come.",
+        "process": [
+          "Step 1: Site evaluation and design consultation.",
+          "Step 2: Material selection and permitting.",
+          "Step 3: Post installation and framing.",
+          "Step 4: Picket or panel installation and finishing."
+        ],
+        "benefits": [
+          "Enhanced privacy and security",
+          "Increased property value",
+          "Natural aesthetic appeal",
+          "Customizable design options"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Cleveland's climate?",
+            "answer": "With proper installation and maintenance, a pressure-treated wood fence can last 15-20 years in Cleveland. Regular staining or sealing can further extend its lifespan."
+          },
+          {
+            "question": "What type of wood is best for fences in Ohio?",
+            "answer": "Pressure-treated pine is a popular and cost-effective option. Cedar is another excellent choice, known for its natural resistance to decay and insects."
+          },
+          {
+            "question": "Do I need a permit to build a wood fence in Cleveland?",
+            "answer": "Yes, most municipalities in the Cleveland area require permits for fence construction. We can handle the permit application process for you."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and durability.",
+        "description": "Vinyl fences offer a durable and low-maintenance alternative to wood, ideal for busy Cleveland homeowners. Budget Fence of Ohio installs high-quality vinyl fences that resist fading, warping, and cracking, even in harsh weather conditions. Unlike wood, vinyl doesn't require painting or staining, saving you time and money on upkeep. Our vinyl fences are available in a variety of styles, including privacy fences, picket fences, and ranch rail fences, with numerous color options to complement your home's exterior. Vinyl fencing stands up well to Cleveland's freeze-thaw cycles, and is resistant to salt corrosion near the lakefront.\n\nWe use premium vinyl materials that are designed to last for decades. Our experienced installers ensure proper post depth and secure connections for maximum stability. We also offer a range of accessories, such as gates and decorative post caps, to customize your fence. With its long-lasting beauty and minimal maintenance, a vinyl fence is a smart investment for any Cleveland property owner.",
+        "process": [
+          "Step 1: Property line survey and layout.",
+          "Step 2: Post hole digging and concrete setting.",
+          "Step 3: Rail installation and panel insertion.",
+          "Step 4: Gate installation and final inspection."
+        ],
+        "benefits": [
+          "Low maintenance and easy to clean",
+          "Long-lasting durability",
+          "Resistant to fading, warping, and cracking",
+          "Variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A high-quality vinyl fence can last 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "Our vinyl fences are made with UV inhibitors to prevent fading and maintain their color for years to come."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Yes, vinyl fencing is recyclable and doesn't require harmful chemicals for treatment."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and functional chain link fences for security and containment.",
+        "description": "Chain link fences provide a cost-effective and practical solution for securing your property or containing pets. Budget Fence of Ohio offers professional chain link fence installation services for both residential and commercial properties in Cleveland. We use galvanized steel for maximum rust resistance, ensuring your fence stands up to Ohio's weather. Choose from various heights and gauges to meet your specific security needs. Chain link is a common choice for backyards in Cleveland's older neighborhoods, offering a straightforward way to define property lines.\n\nWe offer both standard and vinyl-coated chain link fences. Vinyl coating adds an extra layer of protection and allows you to customize the color of your fence. Our experienced installers ensure proper tension and secure connections for a durable and long-lasting fence. We also offer gate installation services to complete your chain link fence system. A chain link fence is a practical choice for property owners looking for an affordable and reliable security solution.",
+        "process": [
+          "Step 1: Property line marking and post placement.",
+          "Step 2: Concrete footing installation.",
+          "Step 3: Chain link fabric installation.",
+          "Step 4: Tensioning and securing the fabric."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Durable and long-lasting",
+          "Provides security and containment",
+          "Easy to install and maintain"
+        ],
+        "faq": [
+          {
+            "question": "How much does a chain link fence cost?",
+            "answer": "The cost of a chain link fence depends on the height, gauge, and length of the fence. Contact us for a free estimate."
+          },
+          {
+            "question": "Can I install a chain link fence myself?",
+            "answer": "While it's possible to install a chain link fence yourself, professional installation ensures proper tension and stability for a longer-lasting fence."
+          },
+          {
+            "question": "What is the difference between galvanized and vinyl-coated chain link?",
+            "answer": "Galvanized chain link is coated with zinc to resist rust. Vinyl-coated chain link has an additional layer of vinyl for added protection and aesthetic appeal."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fence-installation",
+        "name": "Aluminum Fence Installation",
+        "shortDescription": "Elegant and rust-proof aluminum fences for a sophisticated look.",
+        "description": "Aluminum fences offer a combination of beauty, durability, and low maintenance, making them an excellent choice for Cleveland properties. Budget Fence of Ohio installs high-quality aluminum fences that resist rust and corrosion, even in harsh weather conditions and near lakefront salt spray. Our aluminum fences are available in a variety of styles, including ornamental fences, pool fences, and privacy fences, with numerous color options to complement your home's architecture. They are a popular choice for homeowners in University Circle looking for an upscale, secure fencing option.\n\nWe use powder-coated aluminum for a long-lasting and attractive finish. Our experienced installers ensure proper post depth and secure connections for maximum stability. We also offer a range of accessories, such as gates and decorative post caps, to customize your fence. With its elegant look and minimal maintenance, an aluminum fence is a smart investment for any Cleveland property owner.",
+        "process": [
+          "Step 1: Design consultation and layout.",
+          "Step 2: Post hole digging and concrete setting.",
+          "Step 3: Panel assembly and installation.",
+          "Step 4: Gate installation and final inspection."
+        ],
+        "benefits": [
+          "Rust-proof and corrosion-resistant",
+          "Elegant and sophisticated look",
+          "Low maintenance and easy to clean",
+          "Variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long will an aluminum fence last?",
+            "answer": "A high-quality aluminum fence can last 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does aluminum fencing require painting?",
+            "answer": "No, aluminum fencing is powder-coated and doesn't require painting."
+          },
+          {
+            "question": "Is aluminum fencing suitable for pool enclosures?",
+            "answer": "Yes, aluminum fencing is a popular choice for pool enclosures because it's rust-proof and meets safety codes."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair-services",
+        "name": "Fence Repair Services",
+        "shortDescription": "Reliable fence repair services to keep your fence in top condition.",
+        "description": "Even the best fences can suffer damage from weather, accidents, or wear and tear. Budget Fence of Ohio offers comprehensive fence repair services to keep your fence in top condition. We handle all types of fence repairs, including broken posts, damaged panels, leaning fences, and gate repairs. We understand the importance of a secure and well-maintained fence for your property's safety and appearance.\n\nOur experienced technicians will assess the damage and provide a cost-effective repair solution. We use high-quality materials to ensure lasting repairs. We also offer preventative maintenance services to extend the life of your fence, especially important given Cleveland's harsh winters. Whether you have a wood fence, vinyl fence, chain link fence, or aluminum fence, we can handle the repairs quickly and efficiently. Don't let a damaged fence compromise your property's security and curb appeal. Contact Budget Fence of Ohio for reliable fence repair services.",
+        "process": [
+          "Step 1: Damage assessment and estimate.",
+          "Step 2: Material procurement.",
+          "Step 3: Repair or replacement of damaged components.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Restores security and privacy",
+          "Extends the life of your fence",
+          "Improves property appearance",
+          "Cost-effective solution"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. Contact us for a free estimate."
+          },
+          {
+            "question": "Can you repair a leaning fence?",
+            "answer": "Yes, we can repair leaning fences by replacing damaged posts and reinforcing the foundation."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for situations that pose a security risk."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Expert gate services for all fence types.",
+        "description": "Your gate is a crucial point of access and security for your property. Budget Fence of Ohio specializes in both gate installation and repair services, ensuring smooth operation and reliable security. We work with all types of gates, including swing gates, sliding gates, and automatic gates, and can customize gate solutions to your specific needs and preferences. Whether you need a new gate installed, a broken gate repaired, or an automatic gate system serviced, we have the expertise to get the job done right.\n\nWe use high-quality hardware and materials to ensure lasting performance. Our experienced technicians can diagnose and repair gate problems quickly and efficiently. We also offer gate opener installation and repair services. A properly functioning gate is essential for your property's security and convenience. Contact Budget Fence of Ohio for expert gate installation and repair services.",
+        "process": [
+          "Step 1: Site assessment and gate selection.",
+          "Step 2: Gate frame construction and hardware installation.",
+          "Step 3: Gate post installation and alignment.",
+          "Step 4: Final adjustments and testing."
+        ],
+        "benefits": [
+          "Improved property security",
+          "Enhanced convenience",
+          "Increased property value",
+          "Smooth and reliable operation"
+        ],
+        "faq": [
+          {
+            "question": "How much does gate installation cost?",
+            "answer": "The cost of gate installation depends on the type of gate, the size of the opening, and the complexity of the installation. Contact us for a free estimate."
+          },
+          {
+            "question": "Can you repair an automatic gate?",
+            "answer": "Yes, we can repair all types of automatic gates, including gate openers, sensors, and control systems."
+          },
+          {
+            "question": "Do you offer custom gate designs?",
+            "answer": "Yes, we offer custom gate designs to match your specific style and needs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is proud to offer our expert fencing services to the residents and businesses of Cleveland. We understand the unique needs of this vibrant city, from the historic neighborhoods to the bustling downtown area. Our experienced team is equipped to handle any fencing project, big or small, with a focus on quality craftsmanship and customer satisfaction.\n\nWhether you're looking to enhance your home's curb appeal with a classic picket fence, secure your commercial property with a durable chain-link fence, or add privacy to your backyard with a stylish vinyl fence, Budget Fence of Ohio has you covered. We use only the highest quality materials and employ proven installation techniques to ensure your fence will stand the test of time. We are committed to providing affordable and reliable fencing solutions to the Cleveland community.",
+        "localContext": "Cleveland, a major city in Ohio, sits on the shores of Lake Erie. The city is known for its vibrant arts and culture scene, diverse neighborhoods, and revitalized downtown area.",
+        "nearbyAreas": [
+          "Parma",
+          "Lakewood",
+          "Euclid"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is dedicated to serving the residents of Parma with top-quality fencing solutions. Parma, a large suburb of Cleveland, is known for its family-friendly atmosphere and well-maintained neighborhoods. We understand the importance of having a secure and attractive fence for your home or business in Parma.\n\nOur team at Budget Fence of Ohio offers a wide range of fencing options to suit your specific needs and budget. From privacy fences to keep your family safe and sound, to decorative fences to enhance your property's aesthetic appeal, we have the perfect solution for you. We pride ourselves on providing exceptional customer service and ensuring that every fencing project is completed to the highest standards.",
+        "localContext": "Parma is a large city in Cuyahoga County, Ohio, and a suburb of Cleveland. It is known for its residential areas, parks, and community events.",
+        "nearbyAreas": [
+          "Brooklyn",
+          "Seven Hills",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is pleased to provide our professional fencing services to the community of Lakewood. Lakewood, a vibrant city on the shores of Lake Erie, boasts a diverse population and a thriving arts and culture scene. We appreciate the unique architectural styles and neighborhood character that make Lakewood so special.\n\nWe offer a variety of fencing options to complement the diverse homes and businesses in Lakewood. Whether you need a classic wood fence for a historic bungalow or a modern metal fence for a contemporary home, Budget Fence of Ohio has the expertise and resources to deliver outstanding results. Our commitment to quality and customer satisfaction ensures that your fencing project will be a success.",
+        "localContext": "Lakewood is an inner-ring suburb west of Cleveland, Ohio, along the shore of Lake Erie. It's known for its walkable neighborhoods, diverse population, and independent businesses.",
+        "nearbyAreas": [
+          "Rocky River",
+          "Cleveland",
+          "Linndale"
+        ]
+      },
+      {
+        "city": "Euclid",
+        "slug": "euclid-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is committed to providing exceptional fencing services to the residents and businesses of Euclid. Euclid, a city located along Lake Erie, is known for its industrial history and residential neighborhoods. We understand the importance of having a reliable and secure fence to protect your property in Euclid.\n\nOur experienced team at Budget Fence of Ohio offers a comprehensive range of fencing options, including chain-link, wood, vinyl, and ornamental steel. We work closely with our clients to understand their specific needs and preferences, ensuring that the final product meets their expectations. We are dedicated to delivering high-quality workmanship and exceptional customer service on every project.",
+        "localContext": "Euclid is a city in Cuyahoga County, Ohio, located on the shores of Lake Erie. It's known for its industrial past and residential areas.",
+        "nearbyAreas": [
+          "Wickliffe",
+          "South Euclid",
+          "Richmond Heights"
+        ]
+      },
+      {
+        "city": "North Olmsted",
+        "slug": "north-olmsted-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is proud to offer our professional fencing services to the residents and businesses of North Olmsted. North Olmsted is a thriving suburb of Cleveland, known for its excellent schools and family-friendly environment. We understand the importance of having a safe and secure fence to protect your property and loved ones in North Olmsted.\n\nAt Budget Fence of Ohio, we offer a wide range of fencing options to suit your specific needs and budget. Whether you're looking for a privacy fence to create a secluded backyard oasis, a decorative fence to enhance your home's curb appeal, or a security fence to protect your business, we have the perfect solution for you. Our experienced team is committed to providing exceptional customer service and ensuring that every fencing project is completed to the highest standards.",
+        "localContext": "North Olmsted is a city in Cuyahoga County, Ohio, and a suburb of Cleveland. It is known for its shopping centers, residential areas, and parks.",
+        "nearbyAreas": [
+          "Fairview Park",
+          "Olmsted Falls",
+          "Westlake"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is dedicated to providing top-quality fencing solutions to the residents and businesses of Westlake. Westlake is a prosperous suburb of Cleveland, known for its beautiful homes and well-maintained neighborhoods. We understand the importance of having a fence that not only enhances your property's aesthetic appeal but also provides security and privacy.\n\nOur team at Budget Fence of Ohio offers a wide range of fencing materials and styles to complement the diverse architectural styles found in Westlake. From classic wood fences to modern vinyl fences, we have the perfect solution for your needs. We pride ourselves on our attention to detail and commitment to customer satisfaction, ensuring that every fencing project is completed to the highest standards.",
+        "localContext": "Westlake is a city in Cuyahoga County, Ohio, and a suburb of Cleveland. It's known for its upscale residential areas, shopping centers, and corporate headquarters.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Rocky River"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is pleased to offer our expert fencing services to the community of Strongsville. Strongsville is a growing suburb of Cleveland, known for its excellent schools and family-friendly atmosphere. We understand the importance of having a reliable and attractive fence to protect your property and enhance your home's value in Strongsville.\n\nWe offer a variety of fencing options to suit the diverse needs of Strongsville homeowners. Whether you're looking for a privacy fence to create a peaceful backyard retreat, a decorative fence to add curb appeal, or a security fence to protect your property, Budget Fence of Ohio has the expertise and resources to deliver outstanding results. Our commitment to quality and customer satisfaction ensures that your fencing project will be a success.",
+        "localContext": "Strongsville is a city in Cuyahoga County, Ohio, and a suburb of Cleveland. It's known for its residential areas, parks, and shopping centers.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "North Royalton",
+        "slug": "north-royalton-oh",
+        "state": "OH",
+        "content": "Budget Fence of Ohio is committed to providing exceptional fencing services to the residents and businesses of North Royalton. North Royalton is a family-oriented community known for its excellent schools and quiet residential neighborhoods. We understand the importance of having a secure and well-maintained fence to protect your property and loved ones in North Royalton.\n\nOur experienced team at Budget Fence of Ohio offers a comprehensive range of fencing options, including wood, vinyl, chain-link, and ornamental steel. We work closely with our clients to understand their specific needs and preferences, ensuring that the final product meets their expectations. We are dedicated to delivering high-quality workmanship and exceptional customer service on every project.",
+        "localContext": "North Royalton is a city in Cuyahoga County, Ohio, and a suburb of Cleveland. It's known for its residential areas, parks, and community events.",
+        "nearbyAreas": [
+          "Parma",
+          "Strongsville",
+          "Broadview Heights"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Budget Fence of Ohio did an amazing job installing our new wood privacy fence. The crew was professional, efficient, and very respectful of our property. The fence looks beautiful and provides the privacy we needed. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "We needed a chain link fence installed quickly to contain our dogs. Budget Fence of Ohio provided a prompt estimate and completed the installation within a week. The fence is sturdy and well-built. Great service!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "I love my new vinyl fence! It's exactly what I wanted and was very easy to work with Budget Fence of Ohio. The fence is beautiful and I don't have to worry about painting it every year. The installers were friendly and professional.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Fence Repair Services",
+        "text": "After a storm, a section of our wood fence was damaged. Budget Fence of Ohio came out quickly and repaired the fence perfectly. You can't even tell it was damaged. Excellent repair service!",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Aluminum Fence Installation",
+        "text": "We had an aluminum fence installed around our pool. The fence looks great and meets all the safety requirements. The installation team was professional and completed the work on time. We're very happy with the results.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Gate Installation & Repair",
+        "text": "Our gate was sagging and difficult to open. Budget Fence of Ohio repaired the gate quickly and efficiently. It now works perfectly. Great service at a reasonable price!",
+        "date": "2024-12-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Budget Fence of Ohio | Cleveland Fencing",
+        "description": "Cleveland's top choice for affordable & reliable fence installation & repair. Wood, vinyl, chain link, & aluminum fences."
+      },
+      "about": {
+        "title": "About Budget Fence of Ohio",
+        "description": "Learn about Budget Fence of Ohio's commitment to quality, affordable fencing solutions in Cleveland and surrounding areas."
+      },
+      "services": {
+        "title": "Cleveland Fence Services | Installation & Repair",
+        "description": "Comprehensive fence services: wood, vinyl, chain link, & aluminum. Installation, repair, & maintenance in Cleveland, OH."
+      },
+      "contact": {
+        "title": "Contact Budget Fence of Ohio",
+        "description": "Get a free fence estimate! Contact Budget Fence of Ohio today for reliable fencing services in Cleveland and surrounding areas."
+      },
+      "reviews": {
+        "title": "Budget Fence of Ohio Reviews",
+        "description": "Read what our satisfied customers are saying about Budget Fence of Ohio's fence installation and repair services in Cleveland."
+      },
+      "service-areas": {
+        "title": "Budget Fence of Ohio Service Areas",
+        "description": "Budget Fence of Ohio proudly serves Cleveland and surrounding areas with reliable and affordable fencing solutions."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "aluminum-fence-installation": "/images/service-aluminum-fence-installation.webp",
+      "fence-repair-services": "/images/service-fence-repair-services.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fence-installation": {
+        "src": "/images/service-aluminum-fence-installation.webp",
+        "srcset": "/images/service-aluminum-fence-installation-400w.webp 400w, /images/service-aluminum-fence-installation-800w.webp 800w, /images/service-aluminum-fence-installation-1200w.webp 1200w, /images/service-aluminum-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair-services": {
+        "src": "/images/service-fence-repair-services.webp",
+        "srcset": "/images/service-fence-repair-services-400w.webp 400w, /images/service-fence-repair-services-800w.webp 800w, /images/service-fence-repair-services-1200w.webp 1200w, /images/service-fence-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
